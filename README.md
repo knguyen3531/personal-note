@@ -13,5 +13,6 @@ The Note Taker app allows users to write, save, and delete notes. It uses an Exp
 To get started with the app, clone the repository to your local machine and run the following commands:
 
 ```bash
+https://github.com/knguyen3531/personal-note.git
 cd note-taker
 npm install
